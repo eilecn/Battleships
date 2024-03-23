@@ -1,0 +1,24 @@
+﻿  addrandomship.c
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\addrandomship.c(7,6): warning C4013: 'rand' undefined; assuming extern returning int
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\addrandomship.c(30,38): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\addrandomship.c(36,38): warning C4553: '==': result of expression not used; did you intend '='?
+  battleships.c
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\battleships.c(96,38): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\battleships.c(102,38): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\battleships.c(239,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\battleships.c(199,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  initialisemap.c
+  printarray.c
+  project2.c
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,9): error C2065: 'ENGGEN': undeclared identifier
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,9): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,23): error C2065: 'Semester': undeclared identifier
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,23): error C2146: syntax error: missing ';' before identifier 'Two'
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,26): error C2065: 'Two': undeclared identifier
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,42): error C2065: 'C': undeclared identifier
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,42): error C2146: syntax error: missing ';' before identifier 'Programming'
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,54): error C2065: 'Programming': undeclared identifier
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(260,54): error C2146: syntax error: missing ';' before identifier 'Project'
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(261,3): error C2065: 'Project': undeclared identifier
+C:\Users\eilee\OneDrive\Documents\C\Cproject\Cproject\project2.c(261,3): error C2146: syntax error: missing ';' before identifier 'map'
+  Generating Code...
